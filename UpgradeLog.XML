@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="StringCompare">
+</Property><Property Name="Solution File" Value="G:\VS2008\StringCompare\StringCompare.sln">
+</Property><Property Name="User Options File" Value="G:\VS2008\StringCompare\StringCompare.suo">
+</Property><Property Name="Date" Value="Saturday, May 29, 2010">
+</Property><Property Name="Time" Value="19:23 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="StringCompare.sln" Description="File successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare.sln">
+</Event><Event ErrorLevel="0" Project="" Source="StringCompare.suo" Description="File successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare.suo">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\StringCompare.csproj" Description="Project file successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare\StringCompare.csproj">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\StringCompare.csproj.user" Description="Project user file successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare\StringCompare.csproj.user">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\Form1.cs" Description="File successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare\Form1.cs">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\Form1.Designer.cs" Description="File successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\Program.cs" Description="File successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare\Program.cs">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\stringcompare.cs" Description="File successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare\stringcompare.cs">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\Properties\Settings.settings" Description="File successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\StringCompare_TemporaryKey.pfx" Description="File successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare\StringCompare_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\toolbrai.ico" Description="File successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare\toolbrai.ico">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\Form1.resx" Description="File successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare\Form1.resx">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\Properties\Resources.resx" Description="File successfully backed up as G:\VS2008\StringCompare\Backup\StringCompare\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\StringCompare.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="StringCompare" Source="StringCompare\StringCompare.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="StringCompare.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="StringCompare.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="StringCompare" Source="StringCompare\StringCompare.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
